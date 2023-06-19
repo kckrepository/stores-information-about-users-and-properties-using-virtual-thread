@@ -2,7 +2,7 @@
 This is system that stores information about users and properties that are available to rent or buy. The system is designed as a set of small web applications that each perform a specific task (otherwise known as "microservices").
 
 ## design
-<img width="282" alt="image" src="https://github.com/andidani85/99-java-spring-boot-exercise/assets/53563058/f6c91824-18c8-4737-abbe-d8035e31477b">
+<img width="281" alt="image" src="https://github.com/kckrepository/stores-information-about-users-and-properties-using-virtual-thread/assets/17265754/2afc0766-68f5-4050-9c37-575ee3ecaa3e">
 
 
 ## Swagger
