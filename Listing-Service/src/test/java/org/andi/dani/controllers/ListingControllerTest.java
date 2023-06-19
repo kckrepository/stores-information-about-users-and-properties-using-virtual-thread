@@ -37,7 +37,7 @@ public class ListingControllerTest {
                 .andExpect(status().isCreated());
 
         // test get list
-        mockMvc.perform(get("/listings?"))
+        mockMvc.perform(get("/listings"))
                 .andExpect(status().isOk());
     }
 }

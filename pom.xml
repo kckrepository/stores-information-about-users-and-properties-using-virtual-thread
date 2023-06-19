@@ -17,6 +17,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>Listing-Service</module>
+        <module>User-Service</module>
+        <module>Public-APIs</module>
     </modules>
 
     <properties>

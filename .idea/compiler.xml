@@ -7,7 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Public-APIs" />
         <module name="Listing-Service" />
+        <module name="User-Service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +18,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Listing-Service" options="-parameters" />
       <module name="PropertyInformation" options="-parameters" />
+      <module name="Public-APIs" options="-parameters" />
+      <module name="User-Service" options="-parameters" />
     </option>
   </component>
 </project>
